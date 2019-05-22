@@ -1,0 +1,2 @@
+# CubesSchool
+JS
